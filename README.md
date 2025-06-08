@@ -1,7 +1,10 @@
 
 # 1) Project Objective : Electric_Vehicle_US_Sale (Interactive Dashboard creation using Tableau )
 
-## 2) Key Performance Indicators  (KPIs): 
+## 2) Dataset :
+<a href="https://github.com/PratikMJadhav/EV_US_Sales_Data_Analysis/blob/main/Electric_Vehicle_Population_Data%20-%20PJ1.xlsx">Dataset</a
+
+## 3) Key Performance Indicators  (KPIs): 
 1. Total Number of Vehicles
 Gain an understanding of the overall electric vehicle landscape, including both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), to evaluate the market size and its expansion.
 
@@ -17,7 +20,7 @@ Determine the number of Plug-in Hybrid Electric Vehicles in the dataset.
 – Compute the percentage of PHEVs compared to all EVs to analyze the market share of plug-in hybrids.
 
 
-## 3) Analysis Process :
+## 4) Analysis Process :
 
 1. Vehicles by Model Year (Starting from 2010)
 
@@ -52,7 +55,7 @@ Overview: Showcases the top 10 electric vehicle models by number of vehicles, he
 ## 3) Dashboard:
 <a href="https://github.com/PratikMJadhav/EV_US_Sales_Data_Analysis/blob/main/EV_sales_PJ.jpg">Dataset</a
  
-## 4) Insights : 
+## 5) Insights : 
 
 Electric Vehicle Distribution: Out of a total of 120,000 vehicles, 77.8% are fully electric (EVs) while 22.2% are plug-in hybrid electric vehicles (PHEVs).
 
@@ -76,6 +79,6 @@ Growth Trends by Manufacturer: Tesla’s production shows a consistent exponenti
 
 Volkswagen’s Commitment: Volkswagen stands out as another major manufacturer producing 100% fully electric vehicles, alongside Tesla.
 
-## 5) Conclusion : 
+## 6) Conclusion : 
 Electric vehicles (EVs) now dominate the market, accounting for 77.8% of all electric vehicle types, while plug-in hybrids (PHEVs) make up the remaining 22.2%. Washington leads the U.S. in EV adoption, with 99% of its electric vehicles being fully battery electric. Tesla is the clear market leader, producing over half of all EVs and showing consistent exponential growth from 2011 to 2024. Other manufacturers like Nissan and Chevrolet show less stable trends. The EV industry as a whole is shifting toward greener, electric-based energy sources. 41.99% EVs are eligible for CAFV incentives, and with 46.18% still classified as “unknown,” the number of eligible vehicles is expected to increase. All top EV models are fully electric, reflecting consumer and manufacturer preference for BEVs. Tesla vehicles average around 90 miles of range, with Model Y and Model 3 being the most popular. Aside from Tesla, Volkswagen also stands out by producing only fully electric vehicles.
 
