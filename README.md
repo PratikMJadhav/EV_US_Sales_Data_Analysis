@@ -1,6 +1,5 @@
 
-# 1) Project Objective :
-  Electric_Vehicle_US_Sale (Interactive Dashboard creation using Tableau )
+# 1) Project Objective : Electric_Vehicle_US_Sale (Interactive Dashboard creation using Tableau )
 
 ## 2) Key Performance Indicators  (KPIs): 
 1. Total Number of Vehicles
