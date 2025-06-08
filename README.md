@@ -50,7 +50,7 @@ Chart Type: Tree Map
 
 Overview: Showcases the top 10 electric vehicle models by number of vehicles, helping to identify consumer favorites and top-performing models in the market.
 ## 3) Dashboard:
-<ahref="https://github.com/PratikMJadhav/EV_US_Sales_Data_Analysis/blob/main/EV_sales_PJ.jpg">Dataset</a
+<ahref="https://github.com/PratikMJadhav/EV_US_Sales_Data_Analysis/blob/main/EV_sales_PJ.jpg" >Dataset</a
  
 ## 4) Insights : 
 
