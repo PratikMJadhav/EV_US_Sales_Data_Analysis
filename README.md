@@ -1,23 +1,19 @@
 
-#1) Project Objective :
+# 1) Project Objective :
   Electric_Vehicle_US_Sale (Interactive Dashboard creation using Tableau )
 
 ## 2) Key Performance Indicators  (KPIs): 
 1. Total Number of Vehicles
-
 Gain an understanding of the overall electric vehicle landscape, including both Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), to evaluate the market size and its expansion.
 
 2. Average Electric Driving Range
-
 Analyze the average driving range of electric vehicles within the dataset to measure technological progress and efficiency improvements in EVs.
 
 3. Total Number and Percentage of BEVs
-
 Identify the complete count of Battery Electric Vehicles in the dataset.
 – Calculate what portion of the total EV population consists of BEVs to understand the prevalence of fully electric cars in the market.
 
 4. Total Number and Percentage of PHEVs
-
 Determine the number of Plug-in Hybrid Electric Vehicles in the dataset.
 – Compute the percentage of PHEVs compared to all EVs to analyze the market share of plug-in hybrids.
 
@@ -54,7 +50,8 @@ Overview: Represents the share of electric vehicles that qualify for Clean Alter
 Chart Type: Tree Map
 
 Overview: Showcases the top 10 electric vehicle models by number of vehicles, helping to identify consumer favorites and top-performing models in the market.
-##3) Dashboard: 
+## 3) Dashboard:
+
  
 ## 4) Insights : 
 
