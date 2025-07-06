@@ -1,6 +1,8 @@
 
-# 1) Project Objective : Electric_Vehicle_US_Sale (Interactive Dashboard creation using Tableau )
-
+# Project Name : Electric_Vehicle_US_Sale 
+(Interactive Dashboard creation using Tableau )
+## 1) Project Objective : 
+Analyse vehicle distribution, state wise distribution, top ev manufacturer, top ev models 
 ## 2) Dataset :
 <a href="https://github.com/PratikMJadhav/EV_US_Sales_Data_Analysis/blob/main/Electric_Vehicle_Population_Data%20-%20PJ1.xlsx">Dataset</a
 
